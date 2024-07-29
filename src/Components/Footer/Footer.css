@@ -1,0 +1,16 @@
+.bor{
+    position: relative;
+}
+.bor::before{
+    content: '';
+    position: absolute;
+    left: 0;
+    bottom: -8px;
+    background-color: #ff014f;
+    width: 0;
+    height: 1px;
+    transition: all 0.3s ease-in-out;
+}
+.bor:hover::before{
+    width: 100%;
+}

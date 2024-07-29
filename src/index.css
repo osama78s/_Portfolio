@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html{
+    scroll-behavior: smooth;
+}
+
+.divider{
+    border-top: 1px solid #1e1b19cd;
+}
+
+::-webkit-scrollbar {
+    width: 12px; 
+}
+
+::-webkit-scrollbar-thumb {
+    background: #ff014f; 
+}
+
+::-webkit-scrollbar-track {
+    background: #212428; 
+}
