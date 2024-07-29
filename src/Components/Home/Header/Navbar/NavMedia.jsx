@@ -25,8 +25,8 @@ function NavMedia() {
         <li className='text-p cursor-pointer hover:text-heading transition-all duration-300 font-medium mt-4 pb-1 block border-b border-b-navMedia'><a href="#home">View Demo</a></li>
         <li className='text-p cursor-pointer hover:text-heading transition-all duration-300 font-medium mt-4 pb-1 block border-b border-b-navMedia'><a href="#projects">Projects</a></li>
         <li className='text-p cursor-pointer hover:text-heading transition-all duration-300 font-medium mt-4 pb-1 block border-b border-b-navMedia'><a href="#feature">Feature</a></li>
-        <li className='text-p cursor-pointer hover:text-heading transition-all duration-300 font-medium mt-4 pb-1 block'><a href="#friendly">Friendly Support</a></li>
-        <li className='text-p cursor-pointer hover:text-heading transition-all duration-300 font-medium mt-4 pb-1 block border-b border-b-navMedia'><a href="#documentation">Documentation</a></li>
+        <li className='text-p cursor-pointer hover:text-heading transition-all duration-300 font-medium mt-4 pb-1 block border-b border-b-navMedia'><a href="#friendly">Friendly Support</a></li>
+        <li className='text-p cursor-pointer hover:text-heading transition-all duration-300 font-medium mt-4 pb-1 block'><a href="#documentation">Documentation</a></li>
       </ul>
     </div>
   )

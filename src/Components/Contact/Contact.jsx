@@ -5,7 +5,7 @@ const Contact = () => {
     return (
         <>
             <div className=' bg-section py-[100px] font-secondary'>
-                <div className="container flex flex-col items-center justify-center px-0 text-center ">
+                <div className="container flex flex-col items-center justify-center px-[20px] text-center ">
                     <img className='w-[80px] md:w-[90px]  p-[3px] border-2 border-nav rounded-full' src={logo} alt='Logo' />
                     <p className='text-primary mt-8 text-[13px] sm:text-[14px] md:text-[16px]'>PURCHASE THE AMZ AND MAKE YOUR SITE SUPER FASTER AND EASY.</p>
                     <h1 className='text-heading text-[50px] md:text-[70px] font-bold capitalize my-2'>Let's go to Purchase</h1>
