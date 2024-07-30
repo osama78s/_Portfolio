@@ -12,7 +12,7 @@ const Feature = () => {
 
                     <div className=" text-center mb-10 lg:mb-20">
                         <p className='text-primary text-sm sm:text-sm md:text-base'>OUR AMZ FEATURE</p>
-                        <h1 className='text-heading text-[35px] sm:text-[50px] md:text-[70px] font-bold'>Awesome Feature</h1>
+                        <h1 className='text-heading text-[30px] sm:text-[50px] md:text-[70px] font-bold'>Awesome Feature</h1>
                     </div>
                     <div className='section grid sm:grid-cols-2  lg:grid-cols-3 xl:grid-cols-4 gap-x-8 gap-y-12 '>
                         <div className='shadow-a max-h-[500px] bg-primary'>
