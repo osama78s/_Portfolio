@@ -8,7 +8,7 @@ const Help = () => {
     return (
         <>
             <div className=' bg-section py-[100px] font-secondary'  id='documentation'>
-                <div className="container flex flex-col gap-6 lg:gap-0 lg:flex-row justify-between">
+                <div className="container px-[20px] md:px-[50px] flex flex-col gap-6 lg:gap-0 lg:flex-row justify-between">
 
                     <div className='lg:basis-[65%]'>
                         <div className="mb-10 font-secondary">

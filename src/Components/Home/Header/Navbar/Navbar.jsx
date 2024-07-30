@@ -31,7 +31,7 @@ const Navbar = () => {
         <li><a className='hover:text-white transition-all duration-300 uppercase text-[12px]' href="#feature">Feature</a></li>
         <li><a className='hover:text-white transition-all duration-300 uppercase text-[12px]' href="#friendly">friendly support</a></li>
         <li><a className='hover:text-white transition-all duration-300 uppercase text-[12px]' href="#documentation">documentation</a></li>
-        <li><a className='transform inline-block hover:translate-y-[-8px] py-3 px-5 rounded-md transition-all duration-300 uppercase text-[14px] bg-a shadow-a text-primary' href="#">purchase now</a></li>
+        <li><a className='transform inline-block hover:translate-y-[-8px] py-3 px-5 rounded-md transition-all duration-300 uppercase text-[14px] bg-a shadow-a text-primary' href="https://www.facebook.com/profile.php?id=100067178573868" target='_blank'>purchase now</a></li>
       </ul>
       <FontAwesomeIcon className='cursor-pointer text-[25px] lg:hidden p-3 rounded-full text-primary shadow-icons bg-icons transform hover:scale-105 transition-all duration-300' icon={faList} onClick={handelList} />
     </div>
