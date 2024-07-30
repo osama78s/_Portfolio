@@ -11,7 +11,7 @@ import './Swiper.css'
 
 const SwiperCom = () => {
     return (
-        <div className='bg-section py-[100px] font-primary'  id='friendly'>
+        <div className='bg-section pt-[100px] pb-[50px] font-primary' id='friendly'>
             <div className="text-center mb-10 lg:mb-20">
                 <p className='text-primary text-[12px] sm:text-sm md:text-base'>OUR FANTASTIC ENVATO CUSTOMERS REVIEWS</p>
                 <h1 className='text-heading text-[35px] sm:text-[50px] md:text-[70px] font-bold'>Customer Feedback</h1>

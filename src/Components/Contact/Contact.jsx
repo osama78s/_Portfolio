@@ -4,7 +4,7 @@ import logo from '../../assets/me.png'
 const Contact = () => {
     return (
         <>
-            <div className=' bg-section py-[100px] font-secondary'>
+            <div className=' bg-section py-[50px] font-secondary'>
                 <div className="container flex flex-col items-center justify-center px-[20px] text-center ">
                     <img className='w-[80px] md:w-[90px]  p-[3px] border-2 border-nav rounded-full' src={logo} alt='Logo' />
                     <p className='text-primary mt-8 text-[13px] sm:text-[14px] md:text-[16px]'>PURCHASE THE AMZ AND MAKE YOUR SITE SUPER FASTER AND EASY.</p>
