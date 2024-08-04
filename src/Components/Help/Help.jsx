@@ -11,7 +11,7 @@ const Help = () => {
                 <div className="container px-[20px] md:px-[50px] flex flex-col gap-6 lg:gap-0 lg:flex-row justify-between">
 
                     <div className='lg:basis-[65%]'>
-                        <div className="mb-10 font-secondary">
+                        <div className="mb-10 font-secondary text-center md:text-start flex flex-col justify-center md:justify-start items-center md:items-start">
                             <img src={groupImage} alt="Group Image" />
                             <p className='text-primary mt-9 text-sm md:text-md'>CHECK OUT OUR FAQ SECTION TO SEE IF WE CAN HELP.</p>
                             <h1 className='text-heading text-[40px] mt-4 md:mt-0 md:text-[60px] font-bold'>Do you have any Question</h1>
